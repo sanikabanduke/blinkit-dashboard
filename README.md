@@ -18,3 +18,9 @@ An interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI t
 - Customer rating analysis by product category.
 - Low-fat vs. regular-fat product distribution.
 - Interactive Power BI visualizations for business insights.
+
+**Repository Structure**
+-Data: Contain the blinkit dataset
+-Dashboard: Power bi file(.pbix) of the project
+
+-
