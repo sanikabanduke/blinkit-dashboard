@@ -21,9 +21,10 @@ An interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI t
 
 **Repository Structure**
 
--Data: <a href"https://github.com/sanikabanduke/blinkit-dashboard/blob/main/Blinkitdataset.xlsx"</a>
+-Data: <a href"https://github.com/sanikabanduke/blinkit-dashboard/blob/main/Blinkitdataset.xlsx"</a><br/>
+-Dashboard: <a href"https://github.com/sanikabanduke/blinkit-dashboard/blob/main/blinkit%20dashboard.pbit"</a><br/>
+-image: https://github.com/sanikabanduke/blinkit-dashboard/blob/main/Blinkit.png
 
 
--Dashboard: Power bi file(.pbix) of the project
 
 
