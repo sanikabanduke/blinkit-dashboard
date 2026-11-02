@@ -20,13 +20,13 @@ An interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI t
 - Interactive Power BI visualizations for business insights.
 
 **Repository Structure**
-<br/>
 
 -Data: <a href"https://github.com/sanikabanduke/blinkit-dashboard/blob/main/Blinkitdataset.xlsx"</a><br/>
 -Dashboard: <a href"https://github.com/sanikabanduke/blinkit-dashboard/blob/main/blinkit%20dashboard.pbit"</a><br/>
 -image: https://github.com/sanikabanduke/blinkit-dashboard/blob/main/Blinkit.png
 
-**Feedback & Collaboration****
+**Feedback & Collaboration****<br/>
+
 Your feedback is welcome : if you'd like to collaborate on similar projects or discuss data analysis opportunities ,feel free to reach out.
 
 
