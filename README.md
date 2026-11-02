@@ -20,6 +20,7 @@ An interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI t
 - Interactive Power BI visualizations for business insights.
 
 **Repository Structure**
+
 -Data: Contain the blinkit dataset
 -Dashboard: Power bi file(.pbix) of the project
 
